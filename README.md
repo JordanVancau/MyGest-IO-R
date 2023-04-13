@@ -21,7 +21,7 @@ Menu pricipale avec 3 options disponible.
 
  - 1 Gestion des données du parc.
  - 2 Outils utiles.
- - 3 Pré-requins installation & CMS.
+ - 3 Installation de differente chose.
 
 
  **1 GESTION DU PARC**
