@@ -7,9 +7,9 @@ MyGest IO'R est une application de gestion de tâches pour les entreprises.
 
 **Installation.**
 
-Pour installer Mygest IO'R il faut tout d'abord telecharger le code source sur votre ordinateur, puis acceder au dossier d'installation en executant la commande cd install. pour executer cette commande il faut d'abord donnée tout les droit au fichier grace a la commande "chmod +x install.sh"
-Ensuite vous pourais executer le script d'installation grace a la commande ./install.sh 
-Suivez ensuite les instruction afficher a l'ecran 
+Pour installer Mygest IO'R il faut tout d'abord telecharger le code source sur votre ordinateur, puis acceder au dossier d'installation en executant la commande cd install. pour executer cette commande il faut d'abord donner tout les droits au fichier grace a la commande "chmod +x install.sh"
+Ensuite vous pourrez executer le script d'installation grâce à la commande ./install.sh 
+Suivez ensuite les instructions affiché à l'ecran 
 
 **Utilisation.**
 
