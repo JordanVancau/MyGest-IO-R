@@ -1,7 +1,6 @@
 # MyGest-IO-R
 ## Projet bash 1er années BTS 
- - Projet créé par Enzo Boutemy et Jordan Vancauwenberghe.
-
+ - Projet créé par [Enzo Boutemy](https://github.com/eBoutemy/MyGest-IO-R) et Jordan Vancauwenberghe.
 
    - MyGest IO'R est une application de gestion de tâches pour les entreprises que nous avons fait en cours. 
    - Cette outils peut etre utile pour la gestion d'un parc, notamment grâce à sa gestion des Equipements (PC, Routeur, Switch). 
@@ -39,7 +38,7 @@ La partie outils réseau est la partie sur la quel j'ai le plus travailler je va
      - ![image](https://user-images.githubusercontent.com/130663645/232010520-ace3ea4c-9d80-45e4-8eec-7a4a35129b3d.png)
       
  - 2 Tester un port TCP.
-     - Permet de verifier si le port que vous avez entrée est accessible 
+     - ![image](https://user-images.githubusercontent.com/130663645/232791369-3b694fee-fa0a-4d78-8e4c-a1e9a3c11929.png) 
       
  - 3 Consulter les IP active.
      - Permet de voir si les ip entrée auparavant dans la base de donnée nous repondent
@@ -48,37 +47,18 @@ La partie outils réseau est la partie sur la quel j'ai le plus travailler je va
      - Genere un ficher texte avec les information entré dans la base de donnée 
       
  - 5 Connexion en SSH.
-     - Premet de se connecté en ssh en entrant simplement l'ip de la cible 
+     - ![image](https://user-images.githubusercontent.com/130663645/232792951-d11e8494-9653-48bd-87b8-1966a83b2620.png) 
+
+## **MENU SCRIPTS**
 
 ![image](https://user-images.githubusercontent.com/130663645/231999808-13a86e57-8fd5-46f5-add7-f70c0672bcd1.png)
 
-- 1 Installation PHP
-    - Installe php en une commande
-     
-- 2 Installation Apache
-    - Installe apache en une commande
+Pour cette partie je vous invite à voir le github de [Enzo Boutemy](https://github.com/eBoutemy/MyGest-IO-R)
+Il c'est occupé à 90% de cette partie
 
-- 3 Installation MariaDB
-    - Installe Mariadb en une commande
+## **INSTALATION CMS**
+     
+![image](https://user-images.githubusercontent.com/130663645/232794210-05d03514-d491-4732-9051-9b045075792a.png)
 
-- 4 Installation Pure-FTP
-    - Installe Pure-FTP en une commande
-     
-- 5 Installation SSH
-    - Installe un serveur SSH en une commande
-     
-- 6 Installation CMS
-    - Ouvre un menu d'installation de plusieur CMS
-     
-**INSTALATION CMS**
-     
-![image](https://user-images.githubusercontent.com/130663645/231766401-0f4aed5a-2f2f-4811-ad24-28a09fec480e.png)
-
-- 1 Installation WordPress
-    - Installe WordPress en une commande
-     
-- 2 Installation PrestaShop
-    - Installe PrestaShop en une commande
-
-- 3 Installation GLPI
-    - Installe GLPI en une commande
+Pour cette partie je vous invite à voir le github de [Enzo Boutemy](https://github.com/eBoutemy/MyGest-IO-R)
+Il c'est occupé seul de cette partie
